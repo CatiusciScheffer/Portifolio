@@ -9,27 +9,27 @@
       "hardSkills": [
         {
           "name": "SQL",
-          "logo": "./assets/img/tools/sql.png"
+          "logo": "assets/img/tools/sql.png"
         },
         {
           "name": "MySQL",
-          "logo": "./assets/img/icons/mysql.png"
+          "logo": "assets/img/icons/mysql.png"
         },
         {
           "name": "Python",
-          "logo": "./assets/img/icons/python.png"
+          "logo": "assets/img/icons/python.png"
         },
         {
           "name": "JavaScript",
-          "logo": "./assets/img/icons/js.png"
+          "logo": "assets/img/icons/js.png"
         },
         {
           "name": "CSS3",
-          "logo": "./assets/img/icons/css.png"
+          "logo": "assets/img/icons/css.png"
         },
         {
           "name": "HTML5",
-          "logo": "./assets/img/icons/html5.png"
+          "logo": "assets/img/icons/html5.png"
         }
       ],
       "softSkills": [
